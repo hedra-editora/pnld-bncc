@@ -32,20 +32,15 @@ grep 1\[25\] BNCC.tex | grep Produz
 
 `ex: grep EF01 BNCC.tex`
 
-### 1 ano 
-EF01 1 ano
-EF12 1-2 anos
-EF15 1-5 anos
-
-### 2 ano 
-EF12 1-2 anos
-EF15 1-5 anos
-EF02 2 ano
-
-### 3 ano
-EF03 3 ano
-EF15 1-5 anos
-EF35 3-5 anos
+- [x] EF01 1 ano
+- [x] EF12 1-2 anos
+- [x] EF15 1-5 anos
+- [x] EF12 1-2 anos
+- [x] EF15 1-5 anos
+- [x] EF15 1-5 anos
+- [ ] EF02 2 ano
+- [ ] EF03 3 ano
+- [ ] EF35 3-5 anos
 
 -----
 
