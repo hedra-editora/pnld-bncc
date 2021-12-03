@@ -572,6 +572,8 @@ A. (LP) Compreensão de texto: poemas visuais, polissemia, leitura de gráficos,
 B. (MA) Números naturais e racionais, fração distintas e equivalentes, porcentagens, coordenadas, prismas, pirâmides, ângulos, int. de dados
 C. (CI) Vida e fenômenos físico-químicos; "dureza"; vegetação e ciclos, água, digestão, respiração, distribuição de nutrientes, mapas celestes;
 D. (HI) Cultura e povo, organização de poder, religião antiguidade, cidadania, tecnologia e política, marcos de memória, tempo nas culturas
+E. (GE) desigualdades; cidade e campo; tecnologia na economia; meios de transporte; tipos de energia; mapas temáticos; poluição, meio ambiente; mobilidade; 
+F. (ER) o sagrado nas culturas; mitos; concepções de mundo; indígenas, afro-brasileiras, ciganas; sabedoria e tradição oral;
 ```
 A 	EF05LP02 -- Identificar: polissemia das palavras; Compreensão de texto; 
 	EF05LP04 -- Identificar: vírgula, ponto e vírgula, dois-pontos, ..., aspas, (); 
@@ -580,7 +582,6 @@ A 	EF05LP02 -- Identificar: polissemia das palavras; Compreensão de texto;
 	EF05LP08 -- Identificar: sufixo, prefixo; palavras primitivas e compostar; Gramática; 
 	EF05LP13 -- Identificar +Assistir:  vlog sobre brinquedos e livros infantis; Internet; 
 	EF05LP14 -- Identificar: formatação de resenha sobre brinquedo.  
-	-----------------------------------
 	EF05LP16 -- Identificar: comparar fatos na mídia; fake-news; Jornais; Internet; 
 	EF05LP20 -- Identificar +Analisar: argumentos sobre produtos; 
 	EF05LP21 -- Identificar +Analisar: tom e expressão facial de influencers; 
@@ -651,7 +652,6 @@ D	EF05HI01 -- Identificar +Relacionar: "cultura, povo e o espaço geográfico oc
 	EF05HI09 -- Identificar +Comparar: "visões sobre temas que impactam o cotidiano"; "diferentes fontes, incluindo orais" 
 	>> EF05HI10 -- Produzir +Registrar: "inventariar patrimônios materiais e imateriais"; "mudanças e permanências dos patrimônios" 
 E	EF05GE02 -- Identificar: diferenças e desigualdades étnico-culturais; 
----------------------------------
 	EF05GE03 -- Identificar: mudanças sociais, econômicas e ambientais com crescimento das cidades; 
 	EF05GE04 -- Identificar: interações entre cidade e campo; 
 	EF05GE05 -- Identificar:  desenvolvimento tecnológico na agropecuária, na indústria e comercio; 
