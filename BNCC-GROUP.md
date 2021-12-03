@@ -294,6 +294,7 @@ E. Modos de vidas tradicionais
 F. Gramática; Texto; Formatação; Interpretação de gráficos e imagens junto ao texto;
 G. Números; Geometria; Unidades de medida; probabilidade; Dados; Relógios;
 
+```
 A	EF03HI03 -- Identificar +Comparar: "pontos de vista de eventos históricos"
 	EF03HI04 -- Identificar +Perceber: "razões de constituição dos patrimônios históricos"
 	EF03HI05 -- Identificar +Perceber: "marcos históricos e seus significados"
@@ -388,7 +389,7 @@ G 	EF03MA02 -- Identificar: numeração decimal;
 	>> EF03MA26 -- Produzir: resolver problemas com dados apresentados em tabelas; gráficos;
 	>> EF03MA27 -- Ler: interpretar dados em tabelas; 
 	>> EF03MA28 -- Produzir: pesquisar; organizar dados em listas; tabelas; gráficos;
-
+```
 
 
 
@@ -399,6 +400,7 @@ B. Performance; Teatro; Jogos; Dança; Esportes; Música; Canções;
 C. Compreenção de texto; Formatação; Fontes; Pesquisa; Poemas, metáforas, música;
 D. Atividades escolares tradicionais: Seminários; Visita à biblioteca
 
+```
 A	EF35LP05 -- Identificar: contexto e sentido da frase; Compreensão de texto; 
 	EF35LP06 -- Identificar: relações entre partes de um texto; Compreensão de texto; 
 	EF35LP19 -- Identificar: as ideias principais formais; Compreensão de texto; 
@@ -446,7 +448,7 @@ D	EF35LP18 -- Identificar: ouvir apresentações realizadas por colegas; "semin�
 	>> EF35LP01 -- Ler: Leitura silenciosa e em voz alta; +sozinho;  
 	>> EF35LP20 -- Produzir: trabalhos ou pesquisas escolares; "seminário com imagem"; 
 
-
+```
 
 
 
