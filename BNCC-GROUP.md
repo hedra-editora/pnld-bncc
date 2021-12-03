@@ -568,101 +568,110 @@ J	EF04ER01 -- Identificar +Reconhecer: "ritos religiosos presentes no cotidiano"
 
 EF05
 ------------------------------------------------------------------------------------
-EF05CI01 -- Identificar +Explorar: "propriedades físicas dos materiais";"ex: dureza" 
-EF05CI03 -- Identificar: "importância da vegetação para a manutenção de ciclos" 
-EF05CI04 -- Identificar: "usos da água e sustentabilidade" 
-EF05CI06 -- Identificar: "argumentação"; "digestão e respiração como nutrição do organismo" 
-EF05CI07 -- Identificar +Relacionar: "circulação e distribuição de nutrientes no organismo" 
-EF05CI09 -- Identificar: "distúrbios nutricionais" 
-EF05CI10 -- Identificar: "constelações no céu"; "mapas celestes e aplicativos digitais" 
-EF05CI11 -- Identificar +Observar: "movimento do sol e estrelas"; "rotação da Terra" 
-EF05ER01 -- Identificar: "acontecimentos sagrados de diferentes religiões" 
-EF05ER02 -- Identificar: "mitos de criação em diferentes religiões" 
-EF05ER03 -- Identificar: "concepções de mundo, natureza, ser humano, divindades, vida e morte em diferentes mitos de criação"; "religiões" 
-EF05ER04 -- Identificar: "tradição oral na religião" 
-EF05ER05 -- Identificar: "tradição oral nas culturas indígenas, afro-brasileiras, ciganas"; "religião" 
-EF05ER06 -- Identificar: "sábios e a tradição oral"; "religiões" 
-EF05ER07 -- Identificar: "tradição oral e ética"; "religiões" 
-EF05GE02 -- Identificar: diferenças e desigualdades étnico-culturais; 
-EF05GE03 -- Identificar: mudanças sociais, econômicas e ambientais com crescimento das cidades; 
-EF05GE04 -- Identificar: interações entre cidade e campo; 
-EF05GE05 -- Identificar:  desenvolvimento tecnológico na agropecuária, na indústria e comercio; 
-EF05GE06 -- Identificar: transformações dos meios de transporte e de comunicação; 
-EF05GE07 -- Identificar: tipos de energia na produção industrial, agrícola e extrativa e no cotidiano; 
-EF05GE08 -- Identificar: paisagens nas cidades, sequência de fotografias, aéreas e imagens de satélite; 
-EF05GE09 -- Identificar: mapas temáticos de cidades; 
-EF05GE10 -- Identificar: formas de poluição dos cursos de água e dos oceanos; 
-EF05GE11 -- Identificar: problemas ambientais que ocorrem no entorno do aluno; 
-EF05GE12 -- Identificar: discutir as propostas implementadas meio ambiente, mobilidade, moradia e direito à cidade 
-EF05HI01 -- Identificar +Relacionar: "cultura, povo e o espaço geográfico ocupado" 
-EF05HI02 -- Identificar +Relacionar: "organização do poder e formas de ordenação social" 
-EF05HI03 -- Identificar +Observar: "cultura e religião na identidade de povos antigos" 
-EF05HI04 -- Identificar +Relacionar: "cidadania, diversidade e direitos humanos" 
-EF05HI05 -- Identificar +Relacionar: "cidadania, direitos dos povos e das sociedades" 
-EF05HI06 -- Identificar +Comparar: "significados sociais, políticos e culturais em linguagens e tecnologias" 
-EF05HI07 -- Identificar +Relacionar: "presença e/ou a ausência de grupos na produção dos marcos de memória" 
-EF05HI08 -- Identificar +Relacionar: "formas de marcação da passagem do tempo em distintas sociedades" 
-EF05HI09 -- Identificar +Comparar: "visões sobre temas que impactam o cotidiano"; "diferentes fontes, incluindo orais" 
-EF05LP01 -- Identificar: grafar fonema-grafema regulares e irregulares; Gramática; 
-EF05LP02 -- Identificar: polissemia das palavras; Compreensão de texto; 
-EF05LP04 -- Identificar: vírgula, ponto e vírgula, dois-pontos, ..., aspas, (); 
-EF05LP05 -- Identificar: presente, passado e futuro em tempos verbais; Gramática; 
-EF05LP07 -- Identificar: adição, oposição, tempo, causa, condição, finalidade; 
-EF05LP08 -- Identificar: sufixo, prefixo; palavras primitivas e compostar; Gramática; 
-EF05LP13 -- Identificar +Assistir:  vlog sobre brinquedos e livros infantis; Internet; 
-EF05LP14 -- Identificar: formatação de resenha sobre brinquedo.  
-EF05LP16 -- Identificar: comparar fatos na mídia; fake-news; Jornais; Internet; 
-EF05LP20 -- Identificar +Analisar: argumentos sobre produtos; 
-EF05LP21 -- Identificar +Analisar: tom e expressão facial de influencers; 
-EF05LP23 -- Identificar: comparar gráficos e tabelas; 
-EF05LP28 -- Identificar: poemas visuais digitais; minicontos; Internet; 
-EF05MA01 -- Identificar: ordenar números naturais 
-EF05MA02 -- Identificar: ordenar números racionais 
-EF05MA03 -- Identificar: representar frações distintas 
-EF05MA04 -- Identificar: representar frações equivalentes 
-EF05MA05 -- Identificar: comparar números racionais positivos; reta numérica; 
-EF05MA06 -- Identificar: associar porcentagens; 
-EF05MA14 -- Identificar: compreender diferentes representações; mapas; coordenadas geográficas; 
-EF05MA15 -- Identificar: descrever a localização e movimentação de objetos; coordenadas 
-EF05MA16 -- Identificar: figuras especiais; prismas; pirâmides 
-EF05MA18 -- Identificar: reconhecer ângulos; proporcionalidade de figuras; 
-EF05MA20 -- Identificar: perceber que figuras de perímetros iguais podem ter áreas diferentes; 
-EF05MA21 -- Identificar: reconhecer volume como grandeza associada a sólidos geométricos; 
-EF05MA24 -- Identificar: interpretar dados de tabelas e gráficos; 
+A. (LP)
+B. (MA)
+C. (CI)
+D. (HI)
+E. (GE)
+F. (ER)
 
->> EF05CI02 -- Produzir +Descrever: "estado da água e ciclos";"agricultura, clima, etc" 
->> EF05CI05 -- Produzir: "propostas coletivas para um consumo mais consciente"; "reciclagem" 
->> EF05CI08 -- Produzir: "ardápio equilibrado com base nos grupos alimentares" 
->> EF05CI12 -- Produzir +Registrar: "periodicidade das fases da Lua com base em observação" 
->> EF05CI13 -- Produzir: "dispositivos para observação à distância"; "ex: lupa, luneta" 
->> EF05GE01 -- Produzir: migrações e condições de infraestrutura; 
->> EF05HI10 -- Produzir +Registrar: "inventariar patrimônios materiais e imateriais"; "mudanças e permanências dos patrimônios" 
->> EF05LP03 -- Produzir: acentuar oxítonas, paroxítonas e proparoxítonas; Gramática; 
->> EF05LP06 -- Produzir +Escrever: flexionar verbos por escrito e oralmente; Gramática; 
->> EF05LP09 -- Ler: textos instrucional de regras de jogo; Compreensão de texto; 
->> EF05LP10 -- Ler: entender anedotas, piadas e cartuns; 
->> EF05LP11 -- Produzir: Registrar anedotas, piadas e cartuns; 
->> EF05LP12 -- Produzir: textos instrucionais de regras de jogo; 
->> EF05LP15 -- Ler +Assistir: Notícias, reportagens; Jornais; Internet; 
->> EF05LP17 -- Produzir: roteiro de reportagem; 
->> EF05LP18 -- Produzir: vídeo para vlogs; "influencer";  
->> EF05LP19 -- Falar: discussão; argumentar oralmente; "roda"; Opinião; Internet;  
->> EF05LP22 -- Ler: verbetes/dicionário; informações gramaticais; Gramática;  
->> EF05LP24 -- Produzir: redação; resultados de pesquisa na internet; gráficos e tabelas; 
->> EF05LP25 -- Produzir: verbetes/dicionário; finalidade do texto; 
->> EF05LP26 -- Produzir: redação; regras sintáticas de concordância nominal e verbal; Gramática; 
->> EF05LP27 -- Produzir; redação; pronomes anafóricos; relações de sentido; Gramática 
->> EF05MA07 -- Produzir: resolver problemas de adição e subtração; representação decimal; 
->> EF05MA08 -- Produzir: resolver problemas de multiplicação e divisão; representação decimal; 
->> EF05MA09 -- Produzir: resolver problemas de contagem; multiplicação; diagramas; 
->> EF05MA10 -- Produzir: investigar reações de igualdade; adição; subtração;  
->> EF05MA11 -- Produzir: resolver problemas matemáticos; conversão; 
->> EF05MA12 -- Produzir: resolver problemas de proporcionalidade entre duas grandezas; escala em mapas; 
->> EF05MA13 -- Produzir: resolver problemas matemáticos; dividir quantidades em duas partes; 
->> EF05MA17 -- Produzir: comparar e desenhar polígonos; 
->> EF05MA19 -- Produzir: resolver problemas envolvendo medidas;  
->> EF05MA22 -- Produzir: apresentar resultados de experimentos; 
->> EF05MA23 -- Produzir: determinar probabilidade de eventos; 
->> EF05MA25 -- Produzir: pesquisar; usar variáveis categóricas; tabelas; gráficos; 
+```
+A 	EF05LP02 -- Identificar: polissemia das palavras; Compreensão de texto; 
+	EF05LP04 -- Identificar: vírgula, ponto e vírgula, dois-pontos, ..., aspas, (); 
+	EF05LP05 -- Identificar: presente, passado e futuro em tempos verbais; Gramática; 
+	EF05LP07 -- Identificar: adição, oposição, tempo, causa, condição, finalidade; 
+	EF05LP08 -- Identificar: sufixo, prefixo; palavras primitivas e compostar; Gramática; 
+	EF05LP13 -- Identificar +Assistir:  vlog sobre brinquedos e livros infantis; Internet; 
+	EF05LP14 -- Identificar: formatação de resenha sobre brinquedo.  
+	EF05LP16 -- Identificar: comparar fatos na mídia; fake-news; Jornais; Internet; 
+	EF05LP20 -- Identificar +Analisar: argumentos sobre produtos; 
+	EF05LP21 -- Identificar +Analisar: tom e expressão facial de influencers; 
+	EF05LP23 -- Identificar: comparar gráficos e tabelas; 
+	EF05LP28 -- Identificar: poemas visuais digitais; minicontos; Internet; 
+	EF05LP01 -- Identificar: grafar fonema-grafema regulares e irregulares; Gramática; 
+	>> EF05LP03 -- Produzir: acentuar oxítonas, paroxítonas e proparoxítonas; Gramática; 
+	>> EF05LP06 -- Produzir +Escrever: flexionar verbos por escrito e oralmente; Gramática; 
+	>> EF05LP09 -- Ler: textos instrucional de regras de jogo; Compreensão de texto; 
+	>> EF05LP10 -- Ler: entender anedotas, piadas e cartuns; 
+	>> EF05LP11 -- Produzir: Registrar anedotas, piadas e cartuns; 
+	>> EF05LP12 -- Produzir: textos instrucionais de regras de jogo; 
+	>> EF05LP15 -- Ler +Assistir: Notícias, reportagens; Jornais; Internet; 
+	>> EF05LP17 -- Produzir: roteiro de reportagem; 
+	>> EF05LP18 -- Produzir: vídeo para vlogs; "influencer";  
+	>> EF05LP19 -- Falar: discussão; argumentar oralmente; "roda"; Opinião; Internet;  
+	>> EF05LP22 -- Ler: verbetes/dicionário; informações gramaticais; Gramática;  
+	>> EF05LP24 -- Produzir: redação; resultados de pesquisa na internet; gráficos e tabelas; 
+	>> EF05LP25 -- Produzir: verbetes/dicionário; finalidade do texto; 
+	>> EF05LP26 -- Produzir: redação; regras sintáticas de concordância nominal e verbal; Gramática; 
+	>> EF05LP27 -- Produzir; redação; pronomes anafóricos; relações de sentido; Gramática 
+B	EF05MA01 -- Identificar: ordenar números naturais 
+	EF05MA02 -- Identificar: ordenar números racionais 
+	EF05MA03 -- Identificar: representar frações distintas 
+	EF05MA04 -- Identificar: representar frações equivalentes 
+	EF05MA05 -- Identificar: comparar números racionais positivos; reta numérica; 
+	EF05MA06 -- Identificar: associar porcentagens; 
+	EF05MA14 -- Identificar: compreender diferentes representações; mapas; coordenadas geográficas; 
+	EF05MA15 -- Identificar: descrever a localização e movimentação de objetos; coordenadas 
+	EF05MA16 -- Identificar: figuras especiais; prismas; pirâmides 
+	EF05MA18 -- Identificar: reconhecer ângulos; proporcionalidade de figuras; 
+	EF05MA20 -- Identificar: perceber que figuras de perímetros iguais podem ter áreas diferentes; 
+	EF05MA21 -- Identificar: reconhecer volume como grandeza associada a sólidos geométricos; 
+	EF05MA24 -- Identificar: interpretar dados de tabelas e gráficos; 	
+	>> EF05MA07 -- Produzir: resolver problemas de adição e subtração; representação decimal; 
+	>> EF05MA08 -- Produzir: resolver problemas de multiplicação e divisão; representação decimal; 
+	>> EF05MA09 -- Produzir: resolver problemas de contagem; multiplicação; diagramas; 
+	>> EF05MA10 -- Produzir: investigar reações de igualdade; adição; subtração;  
+	>> EF05MA11 -- Produzir: resolver problemas matemáticos; conversão; 
+	>> EF05MA12 -- Produzir: resolver problemas de proporcionalidade entre duas grandezas; escala em mapas; 
+	>> EF05MA13 -- Produzir: resolver problemas matemáticos; dividir quantidades em duas partes; 
+	>> EF05MA17 -- Produzir: comparar e desenhar polígonos; 
+	>> EF05MA19 -- Produzir: resolver problemas envolvendo medidas;  
+	>> EF05MA22 -- Produzir: apresentar resultados de experimentos; 
+	>> EF05MA23 -- Produzir: determinar probabilidade de eventos; 
+	>> EF05MA25 -- Produzir: pesquisar; usar variáveis categóricas; tabelas; gráficos; 
+C	EF05CI01 -- Identificar +Explorar: "propriedades físicas dos materiais";"ex: dureza" 
+	EF05CI03 -- Identificar: "importância da vegetação para a manutenção de ciclos" 
+	EF05CI04 -- Identificar: "usos da água e sustentabilidade" 
+	EF05CI06 -- Identificar: "argumentação"; "digestão e respiração como nutrição do organismo" 
+	EF05CI07 -- Identificar +Relacionar: "circulação e distribuição de nutrientes no organismo" 
+	EF05CI09 -- Identificar: "distúrbios nutricionais" 
+	EF05CI10 -- Identificar: "constelações no céu"; "mapas celestes e aplicativos digitais" 
+	EF05CI11 -- Identificar +Observar: "movimento do sol e estrelas"; "rotação da Terra" 
+	>> EF05CI02 -- Produzir +Descrever: "estado da água e ciclos";"agricultura, clima, etc" 
+	>> EF05CI05 -- Produzir: "propostas coletivas para um consumo mais consciente"; "reciclagem" 
+	>> EF05CI08 -- Produzir: "ardápio equilibrado com base nos grupos alimentares" 
+	>> EF05CI12 -- Produzir +Registrar: "periodicidade das fases da Lua com base em observação" 
+	>> EF05CI13 -- Produzir: "dispositivos para observação à distância"; "ex: lupa, luneta" 
+D	EF05HI01 -- Identificar +Relacionar: "cultura, povo e o espaço geográfico ocupado" 
+	EF05HI02 -- Identificar +Relacionar: "organização do poder e formas de ordenação social" 
+	EF05HI03 -- Identificar +Observar: "cultura e religião na identidade de povos antigos" 
+	EF05HI04 -- Identificar +Relacionar: "cidadania, diversidade e direitos humanos" 
+	EF05HI05 -- Identificar +Relacionar: "cidadania, direitos dos povos e das sociedades" 
+	EF05HI06 -- Identificar +Comparar: "significados sociais, políticos e culturais em linguagens e tecnologias" 
+	EF05HI07 -- Identificar +Relacionar: "presença e/ou a ausência de grupos na produção dos marcos de memória" 
+	EF05HI08 -- Identificar +Relacionar: "formas de marcação da passagem do tempo em distintas sociedades" 
+	EF05HI09 -- Identificar +Comparar: "visões sobre temas que impactam o cotidiano"; "diferentes fontes, incluindo orais" 
+	>> EF05HI10 -- Produzir +Registrar: "inventariar patrimônios materiais e imateriais"; "mudanças e permanências dos patrimônios" 
+E	EF05GE02 -- Identificar: diferenças e desigualdades étnico-culturais; 
+	EF05GE03 -- Identificar: mudanças sociais, econômicas e ambientais com crescimento das cidades; 
+	EF05GE04 -- Identificar: interações entre cidade e campo; 
+	EF05GE05 -- Identificar:  desenvolvimento tecnológico na agropecuária, na indústria e comercio; 
+	EF05GE06 -- Identificar: transformações dos meios de transporte e de comunicação; 
+	EF05GE07 -- Identificar: tipos de energia na produção industrial, agrícola e extrativa e no cotidiano; 
+	EF05GE08 -- Identificar: paisagens nas cidades, sequência de fotografias, aéreas e imagens de satélite; 
+	EF05GE09 -- Identificar: mapas temáticos de cidades; 
+	EF05GE10 -- Identificar: formas de poluição dos cursos de água e dos oceanos; 
+	EF05GE11 -- Identificar: problemas ambientais que ocorrem no entorno do aluno; 
+	EF05GE12 -- Identificar: discutir as propostas implementadas meio ambiente, mobilidade, moradia e direito à cidade 
+	>> EF05GE01 -- Produzir: migrações e condições de infraestrutura; 
+F	EF05ER01 -- Identificar: "acontecimentos sagrados de diferentes religiões" 
+	EF05ER02 -- Identificar: "mitos de criação em diferentes religiões" 
+	EF05ER03 -- Identificar: "concepções de mundo, natureza, ser humano, divindades, vida e morte em diferentes mitos de criação"; "religiões" 
+	EF05ER04 -- Identificar: "tradição oral na religião" 
+	EF05ER05 -- Identificar: "tradição oral nas culturas indígenas, afro-brasileiras, ciganas"; "religião" 
+	EF05ER06 -- Identificar: "sábios e a tradição oral"; "religiões" 
+	EF05ER07 -- Identificar: "tradição oral e ética"; "religiões" 
+```
+
 
 
