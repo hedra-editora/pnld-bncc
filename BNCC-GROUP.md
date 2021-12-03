@@ -456,25 +456,54 @@ D	EF35LP18 -- Identificar: ouvir apresentações realizadas por colegas; "semin�
 
 EF04
 ------------------------------------------------------------------------------------
+
 EF05
 ------------------------------------------------------------------------------------
+A. Gramática: pountuação, concordância, artigos, categorias, sufixos e prefixos; 
+B. Texto; Dicionário
+C. Objetos textuais do cotidiano: carta, cartaz...; Blogueiros (performance); Jornais; 
+D. Objetos textuais tradicionais: teagro, poema;
+E. Algebra; Lógica: frações; tipos de numeração; 
+F. Geometria: prisma e pirâmide; ângulos; cumprimento, medida, área;
+F.
+G.  A
+
+```
+A 	EF04LP03 -- Identificar: Localizar palavras, dicionário, verbetes;
+	EF04LP05 -- Identificar: ponto final, "!,?,:,—"; Gramática
+	EF04LP06 -- Identificar: concordância; Gramática;
+	EF04LP07 -- Identificar: concordância artigo, substantivo e adjetivo; Gramática;
+	EF04LP08 -- Identificar: sufixos -agem, -oso, -eza, -izar/-isar: Gramática;
+	EF04LP12 -- Identificar +Assistir: "vídeo tutorial"; 
+B
+
+C 	EF04LP13 -- Identificar: formatação em textos instrucionais; 
+	EF04LP14 -- Identificar: fatos, participantes; Jornais;
+	EF04LP15 -- Identificar: fatos de opiniões/sugestões em textos; Jornais;
+	EF04LP24 -- Identificar: formatação em relatórios;
+ 	EF04LP18 -- Identificar: tons e expressões facial;
+
+D	EF04LP20 -- Identificar: função de gráficos, diagramas e tabelas em textos;
+	EF04LP23 -- Identificar: formatação em verbetes; 
+	EF04LP27 -- Identificar: marcadores de fala em peças; Teatro;
+	EF04LP26 -- Identificar: formatação em poemas; 
+
+E. 
+EF04MA09 -- Identificar: reconhecer frações;
+EF04MA10 -- Identificar: reconhecer regras de numeração decimal;
+EF04MA11 -- Identificar: reconhecer regularidades em sequências numéricas;
+EF04MA12 -- Identificar: reconhecer grupos de números naturais;
+EF04MA14 -- Identificar: reconhecer a relação de igualdade entre dois termos;
+EF04MA15 -- Identificar: determinar o número que torna verdadeira uma igualdade;
+EF04MA20 -- Identificar: medir comprimentos; unidades de medida;
+EF04MA26 -- Identificar: probabilidade de eventos;
+
+EF04MA17 -- Identificar: associar prismas e pirâmides;
+EF04MA18 -- Identificar: reconhecer ângulos retos e não retos; softwares de geometria;
+EF04MA19 -- Identificar: reconhecer simetria em figuras; softwares de geometria;
+EF04MA21 -- Identificar; medir áreas de figuras planas;
 
 
-EF04CI01 -- Identificar: "misturas na vida diária, com base nas propriedades físicas"
-EF04CI03 -- Identificar: "aquecimento ou resfriamento são reversíveis";"ex: cozimento do ovo"
-EF04CI06 -- Identificar +Relacionar: "fungos, bactérias e o processo de decomposição"
-EF04CI07 -- Identificar: "microrganismos em alimentos, combustíveis, medicamentos"
-EF04CI08 -- Identificar: "transmissão de microrganismos e prevenção"
-EF04CI09 -- Identificar: "pontos cardeais"
-EF04CI10 -- Identificar +Comprar: "pontos cardeais na sombra de uma vara e bússola"
-EF04CI11 -- Identificar +Comparar: "ciclos da Lua e Terra"; "períodos em diferentes culturas"
-EF04ER01 -- Identificar +Reconhecer: "ritos religiosos presentes no cotidiano"
-EF04ER02 -- Identificar +Reconhecer: "funções dos ritos religiosos em diferentes tradições"
-EF04ER03 -- Identificar +Reproduzir: "ritos religiosos de passagem"
-EF04ER04 -- Identificar: "orações, cultos, gestos, cantos, dança, meditação em diferentes religiões"
-EF04ER05 -- Identificar +Relacionar: "religião em pinturas, arquitetura, esculturas, ícones, símbolos, imagens"
-EF04ER06 -- Identificar: "nomes, significados e representações de divindades"
-EF04ER07 -- Identificar +Reconhecer: "divindades de diferentes religiões"
 EF04GE01 -- Identificar: histórias familiares da comunidade com elementos indígenas, afro-brasileiras;
 EF04GE03 -- Identificar: poder público municipal e participação da população; Conselhos;
 EF04GE04 -- Identificar: analisar a interdependência do campo e da cidade;
@@ -494,33 +523,23 @@ EF04HI08 -- Identificar +Relacionar: "mudanças na comunicação e os diferentes
 EF04HI09 -- Identificar +Relacionar: "avaliar papel de migrações em diferentes tempos e espaços"
 EF04HI10 -- Identificar +Relacionar: "fluxos populacionais e sociedade brasileira"
 EF04HI11 -- Identificar +Observar: "mudanças associadas à migração"
-EF04LP03 -- Identificar: Localizar palavras, dicionário, verbetes;
-EF04LP05 -- Identificar: ponto final, "!,?,:,—"; Gramática
-EF04LP06 -- Identificar: concordância; Gramática;
-EF04LP07 -- Identificar: concordância artigo, substantivo e adjetivo; Gramática;
-EF04LP08 -- Identificar: sufixos -agem, -oso, -eza, -izar/-isar: Gramática;
-EF04LP12 -- Identificar +Assistir: "vídeo tutorial"; 
-EF04LP13 -- Identificar: formatação em textos instrucionais; 
-EF04LP14 -- Identificar: fatos, participantes; Jornais;
-EF04LP15 -- Identificar: fatos de opiniões/sugestões em textos; Jornais;
-EF04LP18 -- Identificar: tons e expressões facial;
-EF04LP20 -- Identificar: função de gráficos, diagramas e tabelas em textos;
-EF04LP23 -- Identificar: formatação em verbetes; 
-EF04LP24 -- Identificar: formatação em relatórios;
-EF04LP26 -- Identificar: formatação em poemas; 
-EF04LP27 -- Identificar: marcadores de fala em peças; Teatro;
-EF04MA09 -- Identificar: reconhecer frações;
-EF04MA10 -- Identificar: reconhecer regras de numeração decimal;
-EF04MA11 -- Identificar: reconhecer regularidades em sequências numéricas;
-EF04MA12 -- Identificar: reconhecer grupos de números naturais;
-EF04MA14 -- Identificar: reconhecer a relação de igualdade entre dois termos;
-EF04MA15 -- Identificar: determinar o número que torna verdadeira uma igualdade;
-EF04MA17 -- Identificar: associar prismas e pirâmides;
-EF04MA18 -- Identificar: reconhecer ângulos retos e não retos; softwares de geometria;
-EF04MA19 -- Identificar: reconhecer simetria em figuras; softwares de geometria;
-EF04MA20 -- Identificar: medir comprimentos; unidades de medida;
-EF04MA21 -- Identificar; medir áreas de figuras planas;
-EF04MA26 -- Identificar: probabilidade de eventos;
+EF04CI01 -- Identificar: "misturas na vida diária, com base nas propriedades físicas"
+EF04CI03 -- Identificar: "aquecimento ou resfriamento são reversíveis";"ex: cozimento do ovo"
+EF04CI06 -- Identificar +Relacionar: "fungos, bactérias e o processo de decomposição"
+EF04CI07 -- Identificar: "microrganismos em alimentos, combustíveis, medicamentos"
+EF04CI08 -- Identificar: "transmissão de microrganismos e prevenção"
+EF04CI09 -- Identificar: "pontos cardeais"
+EF04CI10 -- Identificar +Comprar: "pontos cardeais na sombra de uma vara e bússola"
+EF04CI11 -- Identificar +Comparar: "ciclos da Lua e Terra"; "períodos em diferentes culturas"
+EF04ER01 -- Identificar +Reconhecer: "ritos religiosos presentes no cotidiano"
+EF04ER02 -- Identificar +Reconhecer: "funções dos ritos religiosos em diferentes tradições"
+EF04ER03 -- Identificar +Reproduzir: "ritos religiosos de passagem"
+EF04ER04 -- Identificar: "orações, cultos, gestos, cantos, dança, meditação em diferentes religiões"
+EF04ER05 -- Identificar +Relacionar: "religião em pinturas, arquitetura, esculturas, ícones, símbolos, imagens"
+EF04ER06 -- Identificar: "nomes, significados e representações de divindades"
+EF04ER07 -- Identificar +Reconhecer: "divindades de diferentes religiões"
+```
+
 >> EF04CI02 -- Produzir +Experimentar: "transformações nos materiais expostos a condições"
 >> EF04CI04 -- Produzir +Descrever: "construir cadeias alimentares simples"
 >> EF04CI05 -- Produzir +Descrever: "semelhanças e diferenças entre ecossistemas"
