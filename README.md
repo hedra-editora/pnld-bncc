@@ -16,45 +16,6 @@ grep 1\[25\] BNCC.tex | grep Produz
 
 
 
-## Grupo 1
-
-01
-12
-15
-02
-03
-35
-
-```shell
-➜  BNCCtex git:(main) ✗ grep "EF05.*\} Iden" BNCC.tex
-➜  BNCCtex git:(main) ✗ grep "EF05.*\} Prod" BNCC.tex
-```
-
-`ex: grep EF01 BNCC.tex`
-
-- [x] EF01 1 ano
-- [x] EF12 1-2 anos
-- [x] EF15 1-5 anos
-- [x] EF12 1-2 anos
-- [x] EF15 1-5 anos
-- [x] EF15 1-5 anos
-- [ ] EF02 2 ano
-- [ ] EF03 3 ano
-- [ ] EF35 3-5 anos
-
------
-
-## Grupo 2
-
-15
-35
-04
-05
-
-### 4 ano
-EF15 1-5 anos
-EF35 3-5 anos
-EF04 4 ano
 
 ### 5 ano
 EF15 1-5 anos
