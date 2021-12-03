@@ -466,7 +466,7 @@ D. Objetos textuais tradicionais: teagro, poema;
 E. Algebra; Lógica: frações; tipos de numeração; 
 F. Geometria: prisma e pirâmide; ângulos; cumprimento, medida, área;
 F.
-G.  ABC
+G.  ABCD
 
 ```
 A 	EF04LP03 -- Identificar: Localizar palavras, dicionário, verbetes;
