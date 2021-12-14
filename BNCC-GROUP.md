@@ -257,33 +257,6 @@ G	EF02CI05 -- Identificar: "importância da água e da luz para a vida"
 ```
 
 
->> EF02MA02 -- Produzir: fazer estimativas; registrar resultado da contagem de objetos; 
->> EF02MA06 -- Produzir: resolver; elaborar problemas matemáticos; adição; subtração; 
->> EF02MA07 -- Produzir: resolver problemas de multiplicação; 
->> EF02MA08 -- Produzir: resolver problemas matemáticos; dobro; metade; 
->> EF02MA09 -- Produzir: construir sequências de números em ordem crescente ou decrescente; 
->> EF02MA10 -- Produzir: descrever um padrão; sequências; 
->> EF02MA11 -- Produzir: descrever elemementos ausentes em sequências; 
->> EF02MA12 -- Produzir: registrar a localização e deslocamentos de pessoas; 
->> EF02MA13 -- Produzir: esboçar roteiros; desenhar plantas de ambientes; 
->> EF02MA19 -- Produzir: medir a duração de intervalo de tempo; usar um relógio; 
->> EF02MA23 -- Produzir: pesquisar; escolher variáveis categóricas;
-
->> EF02LP15 -- Falar +Cantar: cantigas e canções; "Música"; 
->> EF02LP24 -- Falar: experimentos, entrevistas, verbetes; +grupo, +professor; "Internet"; Oral; 
->> EF03LP22 -- Falar: telejornal para público infantil; +grupo; Jornais; 
->> EF03LP27 -- Falar: recitar cordel e cantar repentes;   
->> EF35LP15 -- Falar: Debate; opinar e defender ponto de vista; Vida cotidiana;  
->> EF35LP28 -- Falar: Declamar poemas; 
-
->> EF02LP05 -- Ler +Produzir: uso do til, m e n finais; "Gramática"; 
->> EF02LP12 -- Ler: cantigas, letras de canção; "Poesia/Poema"; "Vida cotidiana"; 
->> EF02LP26 -- Ler +Apreciar: textos literários, de gêneros variados; +sozinho; Gênero;  
->> EF02MA04 -- Ler: compor e decompor números; adição; 
->> EF02MA05 -- Ler: adição; cálculo mental ou escrito; 
-
-
-
 EF03
 ------------------------------------------------------------------------------------
 A. Cultura e patrimônio; Popular; Cordel;
